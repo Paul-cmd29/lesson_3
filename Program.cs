@@ -14,13 +14,13 @@ if (isTrue == true && isTrue1 == true)
         sum += i;
 
     }
-    Console.WriteLine(sum);
+    Console.WriteLine($"Summary of your input is {sum}");
     
 }
 
 else
 {
-    Console.WriteLine("Inccorect!");
+    Console.WriteLine("Invalid input!");
 }
 
 
