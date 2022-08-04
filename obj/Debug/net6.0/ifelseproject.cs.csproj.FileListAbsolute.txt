@@ -1,0 +1,15 @@
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/bin/Debug/net6.0/ifelseproject.cs
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/bin/Debug/net6.0/ifelseproject.cs.deps.json
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/bin/Debug/net6.0/ifelseproject.cs.runtimeconfig.json
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/bin/Debug/net6.0/ifelseproject.cs.dll
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/bin/Debug/net6.0/ifelseproject.cs.pdb
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/ifelseproject.cs.csproj.AssemblyReference.cache
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/ifelseproject.cs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/ifelseproject.cs.AssemblyInfoInputs.cache
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/ifelseproject.cs.AssemblyInfo.cs
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/ifelseproject.cs.csproj.CoreCompileInputs.cache
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/ifelseproject.cs.dll
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/refint/ifelseproject.cs.dll
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/ifelseproject.cs.pdb
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/ifelseproject.cs.genruntimeconfig.cache
+/Users/paul/Projects/ifelseproject.cs/ifelseproject.cs/obj/Debug/net6.0/ref/ifelseproject.cs.dll
